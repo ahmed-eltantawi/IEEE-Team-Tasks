@@ -1,7 +1,5 @@
 # Week 16 – Responsive Dashboard Task
 
-> **“All praise is due to Allah, Lord of the Worlds”**
-
 ---
 
 ## 📌 Overview
@@ -65,3 +63,4 @@ Deliver a **responsive Flutter dashboard** that provides an optimal experience o
 ✔️ Week 16 task implementation  
 ✔️ Responsive design applied  
 ✔️ Web & Mobile support
+
