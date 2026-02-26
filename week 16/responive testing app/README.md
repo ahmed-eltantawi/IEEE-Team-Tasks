@@ -8,10 +8,7 @@ A Flutter practice project focused on building **Responsive** and **Adaptive** u
 
 
 
-
 https://github.com/user-attachments/assets/f4b6a6c5-8e47-40e0-a483-7929be2527cd
-
-
 
 
 
@@ -19,9 +16,14 @@ https://github.com/user-attachments/assets/f4b6a6c5-8e47-40e0-a483-7929be2527cd
 
 ## 📸 Screenshots
 
-| Mobile | Tablet | Desktop |
-|:------:|:------:|:-------:|
-| ![Mobile](assets/Mobile.png) | ![Tablet](assets/Tablet.png) | ![Desktop](assets/Disktop.png) |
+### 📱 Mobile
+![Mobile](assets/Mobile.png)
+
+### 📋 Tablet
+![Tablet](assets/Tablet.png)
+
+### 🖥️ Desktop
+![Desktop](assets/Disktop.png)
 
 ---
 
@@ -54,19 +56,3 @@ This project is a **training exercise** to learn and practice building responsiv
 - [Dart](https://dart.dev/) — Programming language
 
 ---
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/responsive_app.git
-
-# Navigate to the project
-cd responsive_app
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
