@@ -1,7 +1,7 @@
 # IEEE Team Tasks
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/IEEE_logo.svg" width="200" alt="IEEE Logo">
+  <img src="https://cdn.shopify.com/s/files/1/1268/5407/files/what-is-ieee-802.3.jpg?v=1591386495" width="200" alt="IEEE Logo">
 </p>
 
 ## 📌 Overview
