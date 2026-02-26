@@ -17,13 +17,13 @@ https://github.com/user-attachments/assets/f4b6a6c5-8e47-40e0-a483-7929be2527cd
 ## 📸 Screenshots
 
 ### 📱 Mobile
-![Mobile](assets/Mobile.png)
+<img src="assets/Mobile.png" width="250" />
 
 ### 📋 Tablet
-![Tablet](assets/Tablet.png)
+<img src="assets/Tablet.png" width="400" />
 
 ### 🖥️ Desktop
-![Desktop](assets/Disktop.png)
+<img src="assets/Disktop.png" width="600" />
 
 ---
 
