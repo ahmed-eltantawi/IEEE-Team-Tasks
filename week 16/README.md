@@ -5,7 +5,7 @@ A **Flutter** dashboard application built as a training project to practice **Re
 ---
 
 <p align="center">
-  <img src="assets/screenshots/final.png" alt="Desktop View" width="800"/>
+  <img src="assets/screenshots/final.png" alt="Desktop View" width="800" height="800"/>
 </p>
 
 ---
@@ -176,4 +176,5 @@ The UI is based on a **Figma design** included in the repository (`Figma Design.
 <p align="center">
   Made with ❤️ for IEEE
 </p>
+
 
